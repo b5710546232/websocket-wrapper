@@ -1,0 +1,9 @@
+{
+  "name": "websocket-wrapper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "msgpack-js-browser": "^0.1.4"
+  }
+}
